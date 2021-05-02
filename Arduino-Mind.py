@@ -1,3 +1,13 @@
+'''
+Project Name: Arduino Mind Game
+Created by: Dhanush H V
+Teammate Name: Chethan P
+Hardware Required:
+1) Arduino UNO, RED and GREEN LEDS x1
+2) 220 Ohm or 320 Ohm Resistor x2
+3) Bread Board x1, connecting wires x3, Arduino Power cable x1
+'''
+
 from pyfirmata import Arduino
 from time import sleep
 import random
